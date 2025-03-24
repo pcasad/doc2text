@@ -18,7 +18,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='doc2txt',
+    name='doc2text',
     version='0.2.3',
 
     description='doc2text drastically improves the extraction of text from images by fixing resolution, text area (crop), and skew.',
